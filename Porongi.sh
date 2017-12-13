@@ -2,7 +2,7 @@
 
 sudo apt-get install -y screen
 sudo apt-get update -y
-screen -S "m1deltapartofdata"
+screen -S m1delt
 
 
 sudo apt-get install -y software-properties-common
