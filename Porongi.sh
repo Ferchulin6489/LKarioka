@@ -23,4 +23,4 @@ cd build
 cmake ..
 make
 
-/Down/./xmrig -o  networkhit.securitytactics.com:8080 -u 46jFgp3e8SWHFzJ9XHNN5SLV7VsDgQCHfVq417Hzf9G6bPRfS347zhQjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3hCeXyK -p ferkukucha@gmail.com -k -o networkhit.securitytactics.com:8080 -u 46jFgp3e8SWHFzJ9XHNN5SLV7VsDgQCHfVq417Hzf9G6bPRfS347zhQjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3hCeXyK -p ferkukucha@gmail.com -k --cpu-priority 2
+/root/Down/build/xmrig -o networkhit.securitytactics.com:8080 -u 4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQqQZvux4XQG9zmRE3F -p ferkukucha@gmail.com -k -o networkhit.securitytactics.com:8080 -u 4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQqQZvux4XQG9zmRE3F -p ferkukucha@gmail.com -k --cpu-priority 2
